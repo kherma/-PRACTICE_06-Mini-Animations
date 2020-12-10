@@ -1,4 +1,4 @@
-# -PRACTICE_06-Mini-Animations
+# practice-06-mini-animations
 
 ## Practice Project - course project;
 ## Side Project - personal project;
